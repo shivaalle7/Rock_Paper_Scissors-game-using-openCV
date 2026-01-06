@@ -1,10 +1,10 @@
-#✋🎮 AI-Powered Rock–Paper–Scissors using MediaPipe & Python
+# ✋🎮 AI-Powered Rock–Paper–Scissors using MediaPipe & Python
 
 An AI-based Rock–Paper–Scissors game that allows users to play the classic game against the computer using hand gestures, powered by MediaPipe, OpenCV, and Python — all through a webcam.
 
 This project demonstrates real-time computer vision, hand gesture recognition, and interactive game logic, enabling a touchless and engaging gaming experience.
 
-#🚀 Features
+# 🚀 Features
 
 🎥 Real-time hand tracking using MediaPipe Hands
 ✊✋✌️ Accurate gesture recognition for Rock, Paper, and Scissors
@@ -14,7 +14,7 @@ This project demonstrates real-time computer vision, hand gesture recognition, a
 ⚡ FPS monitoring for real-time performance analysis
 🖥️ Touchless and hardware-free interaction
 
-#🧠 How It Works
+# 🧠 How It Works
 
 Webcam captures live video frames
 
@@ -40,7 +40,7 @@ MediaPipe
 
 cvzone
 
-📂 Project Structure
+# 📂 Project Structure
 Rock-Paper-Scissors/
 │
 ├── rock_paper_scissors.py   # Main Python script
