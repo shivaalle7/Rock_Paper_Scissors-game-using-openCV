@@ -41,7 +41,7 @@ MediaPipe
 cvzone
 
 # 📂 Project Structure
-Rock-Paper-Scissors/
+### Rock-Paper-Scissors/
 │
 ├── rock_paper_scissors.py   # Main Python script
 ├── Resources/              # Background & gesture images
