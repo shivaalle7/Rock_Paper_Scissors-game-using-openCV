@@ -43,7 +43,11 @@ cvzone
 # 📂 Project Structure
 ### Rock-Paper-Scissors/
 │
+
 ├── rock_paper_scissors.py   # Main Python script
+
 ├── Resources/              # Background & gesture images
+
 ├── requirements.txt        # Dependencies
+
 ├── README.md               # Project documentation
